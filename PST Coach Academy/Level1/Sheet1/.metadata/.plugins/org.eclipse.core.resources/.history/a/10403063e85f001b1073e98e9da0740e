@@ -1,0 +1,24 @@
+/*
+ * M.cpp
+ *
+ *  Created on: Jan 26, 2021
+ *      Author: Osama Mahmoud
+ */
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+	int A1 , A2 , A3 , A4;
+	cin >> A1 >> A2 >> A3 >> A4;
+
+
+
+	return 0;
+}
+
+
+
+

@@ -1,0 +1,29 @@
+/*
+ * K.cpp
+ *
+ *  Created on: Jan 26, 2021
+ *      Author: Osama Mahmoud
+ */
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+	int t;
+	unsigned long long a , b;
+
+	cin >> t;
+
+	for(int i=0; i<t; i++)
+		cin >> a >> b;
+
+	cout << a;
+
+	return 0;
+}
+
+
+
+

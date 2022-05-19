@@ -1,0 +1,6 @@
+10:46:35 **** Incremental Build of configuration Debug for project Sheet1_Bit++ ****
+Info: Internal Builder is used for build
+g++ -o Sheet1_Bit++.exe Bit++.o 
+
+10:46:37 Build Finished (took 1s.736ms)
+

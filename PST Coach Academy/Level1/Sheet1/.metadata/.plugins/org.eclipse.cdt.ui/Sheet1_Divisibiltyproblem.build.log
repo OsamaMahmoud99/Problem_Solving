@@ -1,0 +1,7 @@
+10:14:24 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+
+10:14:25 Build Finished (took 855ms)
+

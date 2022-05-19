@@ -1,0 +1,29 @@
+/*
+ * Theatre.cpp
+ *
+ *  Created on: Jan 23, 2021
+ *      Author: Osama Mahmoud
+ */
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+	long long  m , n ,a;
+
+	cin >> n >> m >> a;
+
+
+	int res = ((n+a-1)/a)*((n+a-1)/a);
+
+	cout << res <<"\n";
+
+
+	return 0;
+}
+
+
+
+

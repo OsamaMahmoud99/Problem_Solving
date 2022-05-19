@@ -1,0 +1,272 @@
+10:45:06 **** Incremental Build of configuration Debug for project Sheet1_Bit++ ****
+make all 
+make: *** No rule to make target 'all'.  Stop.
+10:45:19 **** Incremental Build of configuration Debug for project Sheet1_Bit++ ****
+make all 
+make: *** No rule to make target 'all'.  Stop.
+10:45:26 **** Incremental Build of configuration Debug for project Sheet1_Bit++ ****
+make all 
+make: *** No rule to make target 'all'.  Stop.
+10:46:35 **** Incremental Build of configuration Debug for project Sheet1_Bit++ ****
+Info: Internal Builder is used for build
+g++ -o Sheet1_Bit++.exe Bit++.o 
+20:15:43 **** Rebuild of configuration Debug for project Sheet1_DominoPiling ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Domino.o "..\\Domino.cpp" 
+g++ -o Sheet1_DominoPiling.exe Domino.o 
+Info: Nothing to build for Sheet1_DominoPiling
+Info: Nothing to build for Sheet1_DominoPiling
+Info: Nothing to build for Sheet1_DominoPiling
+Info: Nothing to build for Sheet1_DominoPiling
+20:29:48 **** Incremental Build of configuration Debug for project Sheet1_DominoPiling ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Domino.o "..\\Domino.cpp" 
+g++ -o Sheet1_DominoPiling.exe Domino.o 
+Info: Nothing to build for Sheet1_DominoPiling
+Info: Nothing to build for Sheet1_DominoPiling
+Info: Nothing to build for Sheet1_DominoPiling
+Info: Nothing to build for Sheet1_DominoPiling
+07:23:10 **** Rebuild of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+07:23:18 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+07:23:50 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+07:31:02 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+07:32:43 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file Sheet1_Divisibiltyproblem.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:32:46 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file Sheet1_Divisibiltyproblem.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:32:55 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file Sheet1_Divisibiltyproblem.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:33:23 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+07:38:18 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+07:39:22 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+07:45:36 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+07:48:30 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+07:53:39 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+07:55:27 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file Sheet1_Divisibiltyproblem.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:55:43 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+08:03:10 **** Rebuild of configuration Debug for project Sheet1_HeavyRotation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o L.o "..\\L.cpp" 
+g++ -o Sheet1_HeavyRotation.exe L.o 
+08:03:16 **** Incremental Build of configuration Debug for project Sheet1_HeavyRotation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o L.o "..\\L.cpp" 
+g++ -o Sheet1_HeavyRotation.exe L.o 
+Info: Nothing to build for Sheet1_HeavyRotation
+08:18:38 **** Rebuild of configuration Debug for project Sheet1_Relu ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o N.o "..\\N.cpp" 
+g++ -o Sheet1_Relu.exe N.o 
+Info: Nothing to build for Sheet1_Relu
+Info: Nothing to build for Sheet1_Relu
+Info: Nothing to build for Sheet1_Relu
+Info: Nothing to build for Sheet1_Relu
+08:26:17 **** Rebuild of configuration Debug for project Sheet1_Slot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o O.o "..\\O.cpp" 
+g++ -o Sheet1_Slot.exe O.o 
+08:26:22 **** Incremental Build of configuration Debug for project Sheet1_Slot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o O.o "..\\O.cpp" 
+..\O.cpp: In function 'int main()':
+..\O.cpp:15:2: error: expected initializer before 'cin'
+  cin >> C1 >> C2 >> C3;
+  ^
+..\O.cpp:17:23: error: 'C3' was not declared in this scope
+  if(C1 == C2 && C1 == C3)
+                       ^
+08:26:49 **** Incremental Build of configuration Debug for project Sheet1_Slot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o O.o "..\\O.cpp" 
+..\O.cpp: In function 'int main()':
+..\O.cpp:15:2: error: expected initializer before 'cin'
+  cin >> C1 >> C2 >> C3;
+  ^
+..\O.cpp:17:23: error: 'C3' was not declared in this scope
+  if(C1 == C2 && C1 == C3)
+                       ^
+08:27:14 **** Incremental Build of configuration Debug for project Sheet1_Slot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o O.o "..\\O.cpp" 
+..\O.cpp: In function 'int main()':
+..\O.cpp:15:2: error: expected initializer before 'cin'
+  cin >> C1 >> C2 >> C3;
+  ^
+..\O.cpp:17:23: error: 'C3' was not declared in this scope
+  if(C1 == C2 && C1 == C3)
+                       ^
+08:27:24 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+08:27:30 **** Incremental Build of configuration Debug for project Sheet1_Slot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o O.o "..\\O.cpp" 
+..\O.cpp: In function 'int main()':
+..\O.cpp:15:2: error: expected initializer before 'cin'
+  cin >> C1 >> C2 >> C3;
+  ^
+..\O.cpp:17:23: error: 'C3' was not declared in this scope
+  if(C1 == C2 && C1 == C3)
+                       ^
+08:29:01 **** Incremental Build of configuration Debug for project Sheet1_Slot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o O.o "..\\O.cpp" 
+..\O.cpp: In function 'int main()':
+..\O.cpp:15:2: error: expected initializer before 'cin'
+  cin >> C1 >> C2 >> C3;
+  ^
+..\O.cpp:17:26: error: 'C3' was not declared in this scope
+  if((C1 == C2) && (C1 == C3))
+                          ^
+08:29:31 **** Incremental Build of configuration Debug for project Sheet1_Slot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o O.o "..\\O.cpp" 
+g++ -o Sheet1_Slot.exe O.o 
+Info: Nothing to build for Sheet1_Slot
+Info: Nothing to build for Sheet1_Slot
+Info: Nothing to build for Sheet1_Slot
+08:42:08 **** Rebuild of configuration Debug for project Sheet1_ThreePointShot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o P.o "..\\P.cpp" 
+g++ -o Sheet1_ThreePointShot.exe P.o 
+Info: Nothing to build for Sheet1_ThreePointShot
+Info: Nothing to build for Sheet1_ThreePointShot
+Info: Nothing to build for Sheet1_ThreePointShot
+08:46:30 **** Incremental Build of configuration Debug for project Sheet1_ThreePointShot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o P.o "..\\P.cpp" 
+g++ -o Sheet1_ThreePointShot.exe P.o 
+08:52:14 **** Incremental Build of configuration Debug for project Sheet1_ThreePointShot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o P.o "..\\P.cpp" 
+..\P.cpp: In function 'int main()':
+..\P.cpp:24:9: warning: suggest explicit braces to avoid ambiguous 'else' [-Wparentheses]
+  else if( Y < X)
+         ^
+g++ -o Sheet1_ThreePointShot.exe P.o 
+08:52:55 **** Incremental Build of configuration Debug for project Sheet1_ThreePointShot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o P.o "..\\P.cpp" 
+g++ -o Sheet1_ThreePointShot.exe P.o 
+08:54:21 **** Incremental Build of configuration Debug for project Sheet1_ThreePointShot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o P.o "..\\P.cpp" 
+g++ -o Sheet1_ThreePointShot.exe P.o 
+08:56:07 **** Incremental Build of configuration Debug for project Sheet1_ThreePointShot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o P.o "..\\P.cpp" 
+g++ -o Sheet1_ThreePointShot.exe P.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file Sheet1_ThreePointShot.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:56:24 **** Incremental Build of configuration Debug for project Sheet1_ThreePointShot ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o P.o "..\\P.cpp" 
+g++ -o Sheet1_ThreePointShot.exe P.o 
+Info: Nothing to build for Sheet1_ThreePointShot
+09:32:31 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+09:49:00 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+09:52:41 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file Sheet1_Divisibiltyproblem.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+09:53:01 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+10:07:00 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+10:07:29 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+Info: Nothing to build for Sheet1_Divisibiltyproblem
+10:14:24 **** Incremental Build of configuration Debug for project Sheet1_Divisibiltyproblem ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o Sheet1_Divisibiltyproblem.exe K.o 
+17:08:37 **** Rebuild of configuration Debug for project Sheet1_ABCPreperation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o M.o "..\\M.cpp" 
+g++ -o Sheet1_ABCPreperation.exe M.o 
+17:08:46 **** Incremental Build of configuration Debug for project Sheet1_ABCPreperation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o M.o "..\\M.cpp" 
+g++ -o Sheet1_ABCPreperation.exe M.o 
+Info: Nothing to build for Sheet1_ABCPreperation
