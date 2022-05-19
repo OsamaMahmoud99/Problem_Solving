@@ -1,0 +1,29 @@
+/*
+ * Y.cpp
+ *
+ *  Created on: Jan 30, 2021
+ *      Author: Osama Mahmoud
+ */
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+	int A , B , C , D;
+    cin >> A >> B >> C >> D;
+	int Res1 = (A*B*C*D)/100;
+	float Res2 =(float)(A*B*C*D)/100;
+
+	cout << fixed << setprecision(0);
+	int Res =(Res2-Res1)*100;
+
+	if(Res < 10)
+		cout<<0<<Res;
+	return 0;
+}
+
+
+
+

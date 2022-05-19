@@ -1,0 +1,7 @@
+14:19:43 **** Incremental Build of configuration Debug for project W. Mathematical Expression ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o W.o "..\\W.cpp" 
+g++ -o "W. Mathematical Expression.exe" W.o 
+
+14:19:44 Build Finished (took 988ms)
+

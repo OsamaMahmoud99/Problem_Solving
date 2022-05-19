@@ -1,0 +1,46 @@
+/*
+ * K.cpp
+ *
+ *  Created on: Jan 26, 2021
+ *      Author: Osama Mahmoud
+ */
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+	long long A , B , C;
+	cin >> A >> B >> C;
+
+	if(A > B)
+	{
+		if(A > C)
+			cout << A;
+		else
+			cout << C;
+		if(B > C)
+			cout << C;
+		else
+			cout << B;
+	}
+	else
+	{
+		if(A > C)
+			cout << C;
+		else
+			cout << A;
+		if(B > C)
+			cout << B;
+		else
+			cout << C;
+
+	}
+
+	return 0;
+}
+
+
+
+

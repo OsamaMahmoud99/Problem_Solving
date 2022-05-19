@@ -1,0 +1,748 @@
+16:53:51 **** Rebuild of configuration Debug for project A.SayHello ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o A.o "..\\A.cpp" 
+g++ -o A.SayHello.exe A.o 
+Info: Nothing to build for A.SayHello
+17:05:12 **** Rebuild of configuration Debug for project B.BasicDatatypes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o B.o "..\\B.cpp" 
+g++ -o B.BasicDatatypes.exe B.o 
+17:05:17 **** Incremental Build of configuration Debug for project B.BasicDatatypes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o B.o "..\\B.cpp" 
+g++ -o B.BasicDatatypes.exe B.o 
+18:04:40 **** Rebuild of configuration Debug for project C.simpleCalculator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o C.o "..\\C.cpp" 
+g++ -o C.simpleCalculator.exe C.o 
+Info: Nothing to build for C.simpleCalculator
+18:05:25 **** Incremental Build of configuration Debug for project C.simpleCalculator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o C.o "..\\C.cpp" 
+..\C.cpp: In function 'int main()':
+..\C.cpp:19:17: error: expected primary-expression before '<<' token
+  cout <<X + Y = <<X + Y;
+                 ^
+18:06:13 **** Incremental Build of configuration Debug for project C.simpleCalculator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o C.o "..\\C.cpp" 
+g++ -o C.simpleCalculator.exe C.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file C.simpleCalculator.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:06:19 **** Incremental Build of configuration Debug for project C.simpleCalculator ****
+Info: Internal Builder is used for build
+g++ -o C.simpleCalculator.exe C.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file C.simpleCalculator.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:06:27 **** Incremental Build of configuration Debug for project C.simpleCalculator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o C.o "..\\C.cpp" 
+g++ -o C.simpleCalculator.exe C.o 
+Info: Nothing to build for C.simpleCalculator
+18:08:20 **** Incremental Build of configuration Debug for project C.simpleCalculator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o C.o "..\\C.cpp" 
+g++ -o C.simpleCalculator.exe C.o 
+18:10:23 **** Incremental Build of configuration Debug for project C.simpleCalculator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o C.o "..\\C.cpp" 
+g++ -o C.simpleCalculator.exe C.o 
+18:10:50 **** Incremental Build of configuration Debug for project C.simpleCalculator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o C.o "..\\C.cpp" 
+g++ -o C.simpleCalculator.exe C.o 
+18:30:20 **** Incremental Build of configuration Debug for project C.simpleCalculator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o C.o "..\\C.cpp" 
+g++ -o C.simpleCalculator.exe C.o 
+18:49:16 **** Rebuild of configuration Debug for project D.Difference ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o D.o "..\\D.cpp" 
+g++ -o D.Difference.exe D.o 
+Info: Nothing to build for D.Difference
+Info: Nothing to build for D.Difference
+Info: Nothing to build for D.Difference
+19:21:00 **** Rebuild of configuration Debug for project E.Areaofcircle ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o E.o "..\\E.cpp" 
+g++ -o E.Areaofcircle.exe E.o 
+Info: Nothing to build for E.Areaofcircle
+21:07:42 **** Rebuild of configuration Debug for project F.DigitSummation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o F.o "..\\F.cpp" 
+g++ -o F.DigitSummation.exe F.o 
+Info: Nothing to build for F.DigitSummation
+Info: Nothing to build for F.DigitSummation
+Info: Nothing to build for F.DigitSummation
+21:16:36 **** Rebuild of configuration Debug for project G.Summationfrom 1 to N ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o G.o "..\\G.cpp" 
+g++ -o "G.Summationfrom 1 to N.exe" G.o 
+Info: Nothing to build for G.Summationfrom 1 to N
+Info: Nothing to build for G.Summationfrom 1 to N
+Info: Nothing to build for G.Summationfrom 1 to N
+Info: Nothing to build for G.Summationfrom 1 to N
+21:50:34 **** Incremental Build of configuration Debug for project G.Summationfrom 1 to N ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o G.o "..\\G.cpp" 
+g++ -o "G.Summationfrom 1 to N.exe" G.o 
+Info: Nothing to build for G.Summationfrom 1 to N
+22:06:10 **** Incremental Build of configuration Debug for project G.Summationfrom 1 to N ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o G.o "..\\G.cpp" 
+..\G.cpp: In function 'int main()':
+..\G.cpp:14:35: warning: unused variable 'i' [-Wunused-variable]
+  unsigned long long N , Sum = 0 , i;
+                                   ^
+g++ -o "G.Summationfrom 1 to N.exe" G.o 
+22:06:26 **** Incremental Build of configuration Debug for project G.Summationfrom 1 to N ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o G.o "..\\G.cpp" 
+g++ -o "G.Summationfrom 1 to N.exe" G.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file G.Summationfrom 1 to N.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:06:37 **** Incremental Build of configuration Debug for project G.Summationfrom 1 to N ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o G.o "..\\G.cpp" 
+g++ -o "G.Summationfrom 1 to N.exe" G.o 
+Info: Nothing to build for G.Summationfrom 1 to N
+Info: Nothing to build for G.Summationfrom 1 to N
+14:32:56 **** Rebuild of configuration Debug for project H.TwoNumbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o H.o "..\\H.cpp" 
+g++ -o H.TwoNumbers.exe H.o 
+Info: Nothing to build for H.TwoNumbers
+Info: Nothing to build for H.TwoNumbers
+Info: Nothing to build for H.TwoNumbers
+Info: Nothing to build for H.TwoNumbers
+14:35:14 **** Incremental Build of configuration Debug for project H.TwoNumbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o H.o "..\\H.cpp" 
+g++ -o H.TwoNumbers.exe H.o 
+Info: Nothing to build for H.TwoNumbers
+14:36:22 **** Incremental Build of configuration Debug for project H.TwoNumbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o H.o "..\\H.cpp" 
+g++ -o H.TwoNumbers.exe H.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file H.TwoNumbers.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:36:34 **** Incremental Build of configuration Debug for project H.TwoNumbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o H.o "..\\H.cpp" 
+g++ -o H.TwoNumbers.exe H.o 
+Info: Nothing to build for H.TwoNumbers
+Info: Nothing to build for H.TwoNumbers
+Info: Nothing to build for H.TwoNumbers
+14:42:01 **** Rebuild of configuration Debug for project I.WelcomeWithConditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o I.o "..\\I.cpp" 
+g++ -o I.WelcomeWithConditions.exe I.o 
+Info: Nothing to build for I.WelcomeWithConditions
+Info: Nothing to build for I.WelcomeWithConditions
+Info: Nothing to build for I.WelcomeWithConditions
+14:49:08 **** Rebuild of configuration Debug for project J.Multiples ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o J.o "..\\J.cpp" 
+g++ -o J.Multiples.exe J.o 
+Info: Nothing to build for J.Multiples
+Info: Nothing to build for J.Multiples
+Info: Nothing to build for J.Multiples
+15:03:23 **** Rebuild of configuration Debug for project K.MaxandMin ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o K.MaxandMin.exe K.o 
+Info: Nothing to build for K.MaxandMin
+15:05:01 **** Incremental Build of configuration Debug for project K.MaxandMin ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o K.MaxandMin.exe K.o 
+15:05:47 **** Incremental Build of configuration Debug for project K.MaxandMin ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o K.MaxandMin.exe K.o 
+15:06:06 **** Incremental Build of configuration Debug for project K.MaxandMin ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o K.MaxandMin.exe K.o 
+Info: Nothing to build for K.MaxandMin
+Info: Nothing to build for K.MaxandMin
+15:06:56 **** Incremental Build of configuration Debug for project K.MaxandMin ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o K.MaxandMin.exe K.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file K.MaxandMin.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:07:05 **** Incremental Build of configuration Debug for project K.MaxandMin ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o K.MaxandMin.exe K.o 
+Info: Nothing to build for K.MaxandMin
+15:07:31 **** Incremental Build of configuration Debug for project K.MaxandMin ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o K.MaxandMin.exe K.o 
+Info: Nothing to build for K.MaxandMin
+10:57:55 **** Rebuild of configuration Debug for project L.TheBrothers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o L.o "..\\L.cpp" 
+..\L.cpp: In function 'int main()':
+..\L.cpp:20:8: warning: value computed is not used [-Wunused-value]
+   cout <"Not";
+        ^
+g++ -o L.TheBrothers.exe L.o 
+10:58:19 **** Incremental Build of configuration Debug for project L.TheBrothers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o L.o "..\\L.cpp" 
+g++ -o L.TheBrothers.exe L.o 
+Info: Nothing to build for L.TheBrothers
+10:59:22 **** Incremental Build of configuration Debug for project L.TheBrothers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o L.o "..\\L.cpp" 
+g++ -o L.TheBrothers.exe L.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file L.TheBrothers.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+10:59:33 **** Incremental Build of configuration Debug for project L.TheBrothers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o L.o "..\\L.cpp" 
+g++ -o L.TheBrothers.exe L.o 
+Info: Nothing to build for L.TheBrothers
+11:07:25 **** Rebuild of configuration Debug for project M.CapitalOrSmallDigits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o M.o "..\\M.cpp" 
+g++ -o M.CapitalOrSmallDigits.exe M.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/lib/../lib/libmingw32.a(lib32_libmingw32_a-crt0_c.o):crt0_c.c:(.text.startup+0x39): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+11:07:49 **** Incremental Build of configuration Debug for project M.CapitalOrSmallDigits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o M.o "..\\M.cpp" 
+g++ -o M.CapitalOrSmallDigits.exe M.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/lib/../lib/libmingw32.a(lib32_libmingw32_a-crt0_c.o):crt0_c.c:(.text.startup+0x39): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+11:08:25 **** Incremental Build of configuration Debug for project M.CapitalOrSmallDigits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o M.o "..\\M.cpp" 
+g++ -o M.CapitalOrSmallDigits.exe M.o 
+Info: Nothing to build for M.CapitalOrSmallDigits
+Info: Nothing to build for M.CapitalOrSmallDigits
+Info: Nothing to build for M.CapitalOrSmallDigits
+11:09:37 **** Incremental Build of configuration Debug for project M.CapitalOrSmallDigits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o M.o "..\\M.cpp" 
+g++ -o M.CapitalOrSmallDigits.exe M.o 
+11:15:21 **** Rebuild of configuration Debug for project N.Char ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o N.o "..\\N.cpp" 
+g++ -o N.Char.exe N.o 
+Info: Nothing to build for N.Char
+11:15:48 **** Incremental Build of configuration Debug for project N.Char ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o N.o "..\\N.cpp" 
+g++ -o N.Char.exe N.o 
+Info: Nothing to build for N.Char
+11:16:08 **** Incremental Build of configuration Debug for project N.Char ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o N.o "..\\N.cpp" 
+g++ -o N.Char.exe N.o 
+Info: Nothing to build for N.Char
+Info: Nothing to build for N.Char
+11:24:10 **** Rebuild of configuration Debug for project O.Calculator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o O.o "..\\O.cpp" 
+g++ -o O.Calculator.exe O.o 
+Info: Nothing to build for O.Calculator
+Info: Nothing to build for O.Calculator
+Info: Nothing to build for O.Calculator
+11:27:53 **** Incremental Build of configuration Debug for project O.Calculator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o O.o "..\\O.cpp" 
+g++ -o O.Calculator.exe O.o 
+Info: Nothing to build for O.Calculator
+11:28:33 **** Incremental Build of configuration Debug for project O.Calculator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o O.o "..\\O.cpp" 
+g++ -o O.Calculator.exe O.o 
+11:38:24 **** Rebuild of configuration Debug for project P.FirstDigit! ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o P.o "..\\P.cpp" 
+g++ -o P.FirstDigit!.exe P.o 
+Info: Nothing to build for P.FirstDigit!
+Info: Nothing to build for P.FirstDigit!
+15:10:13 **** Rebuild of configuration Debug for project Q.Coordinatesof apoint ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Q.o "..\\Q.cpp" 
+g++ -o "Q.Coordinatesof apoint.exe" Q.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/lib/../lib/libmingw32.a(lib32_libmingw32_a-crt0_c.o):crt0_c.c:(.text.startup+0x39): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+15:10:18 **** Incremental Build of configuration Debug for project Q.Coordinatesof apoint ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Q.o "..\\Q.cpp" 
+g++ -o "Q.Coordinatesof apoint.exe" Q.o 
+Info: Nothing to build for Q.Coordinatesof apoint
+Info: Nothing to build for Q.Coordinatesof apoint
+Info: Nothing to build for Q.Coordinatesof apoint
+15:23:34 **** Incremental Build of configuration Debug for project Q.Coordinatesof apoint ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Q.o "..\\Q.cpp" 
+g++ -o "Q.Coordinatesof apoint.exe" Q.o 
+15:25:43 **** Incremental Build of configuration Debug for project Q.Coordinatesof apoint ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Q.o "..\\Q.cpp" 
+g++ -o "Q.Coordinatesof apoint.exe" Q.o 
+Info: Nothing to build for Q.Coordinatesof apoint
+16:02:17 **** Rebuild of configuration Debug for project R.Age in Days ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o R.o "..\\R.cpp" 
+g++ -o "R.Age in Days.exe" R.o 
+Info: Nothing to build for R.Age in Days
+16:03:53 **** Incremental Build of configuration Debug for project R.Age in Days ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o R.o "..\\R.cpp" 
+g++ -o "R.Age in Days.exe" R.o 
+16:04:18 **** Incremental Build of configuration Debug for project R.Age in Days ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o R.o "..\\R.cpp" 
+g++ -o "R.Age in Days.exe" R.o 
+16:04:42 **** Incremental Build of configuration Debug for project R.Age in Days ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o R.o "..\\R.cpp" 
+g++ -o "R.Age in Days.exe" R.o 
+Info: Nothing to build for R.Age in Days
+16:09:54 **** Incremental Build of configuration Debug for project R.Age in Days ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o R.o "..\\R.cpp" 
+g++ -o "R.Age in Days.exe" R.o 
+Info: Nothing to build for R.Age in Days
+16:13:21 **** Incremental Build of configuration Debug for project R.Age in Days ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o R.o "..\\R.cpp" 
+g++ -o "R.Age in Days.exe" R.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file R.Age in Days.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:13:30 **** Incremental Build of configuration Debug for project R.Age in Days ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o R.o "..\\R.cpp" 
+g++ -o "R.Age in Days.exe" R.o 
+Info: Nothing to build for R.Age in Days
+Info: Nothing to build for R.Age in Days
+16:18:48 **** Incremental Build of configuration Debug for project R.Age in Days ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o R.o "..\\R.cpp" 
+g++ -o "R.Age in Days.exe" R.o 
+16:27:34 **** Incremental Build of configuration Debug for project R.Age in Days ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o R.o "..\\R.cpp" 
+g++ -o "R.Age in Days.exe" R.o 
+Info: Nothing to build for R.Age in Days
+Info: Nothing to build for R.Age in Days
+Info: Nothing to build for R.Age in Days
+Info: Nothing to build for R.Age in Days
+16:36:05 **** Incremental Build of configuration Debug for project R.Age in Days ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o R.o "..\\R.cpp" 
+g++ -o "R.Age in Days.exe" R.o 
+Info: Nothing to build for R.Age in Days
+11:47:52 **** Rebuild of configuration Debug for project S. Interval ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o S.o "..\\S.cpp" 
+g++ -o "S. Interval.exe" S.o 
+Info: Nothing to build for S. Interval
+Info: Nothing to build for S. Interval
+Info: Nothing to build for S. Interval
+Info: Nothing to build for S. Interval
+11:49:21 **** Incremental Build of configuration Debug for project S. Interval ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o S.o "..\\S.cpp" 
+g++ -o "S. Interval.exe" S.o 
+Info: Nothing to build for S. Interval
+12:35:21 **** Rebuild of configuration Debug for project T. Sort Numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o T.o "..\\T.cpp" 
+..\T.cpp: In function 'int main()':
+..\T.cpp:17:12: warning: unused variable 'Min' [-Wunused-variable]
+  long long Min , Max;
+            ^
+..\T.cpp:17:18: warning: unused variable 'Max' [-Wunused-variable]
+  long long Min , Max;
+                  ^
+g++ -o "T. Sort Numbers.exe" T.o 
+Info: Nothing to build for T. Sort Numbers
+12:38:05 **** Incremental Build of configuration Debug for project T. Sort Numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o T.o "..\\T.cpp" 
+..\T.cpp: In function 'int main()':
+..\T.cpp:17:12: warning: unused variable 'Min' [-Wunused-variable]
+  long long Min , Max;
+            ^
+..\T.cpp:17:18: warning: unused variable 'Max' [-Wunused-variable]
+  long long Min , Max;
+                  ^
+g++ -o "T. Sort Numbers.exe" T.o 
+Info: Nothing to build for T. Sort Numbers
+12:40:06 **** Incremental Build of configuration Debug for project T. Sort Numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o T.o "..\\T.cpp" 
+g++ -o "T. Sort Numbers.exe" T.o 
+Info: Nothing to build for T. Sort Numbers
+12:40:52 **** Incremental Build of configuration Debug for project T. Sort Numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o T.o "..\\T.cpp" 
+g++ -o "T. Sort Numbers.exe" T.o 
+12:40:59 **** Incremental Build of configuration Debug for project T. Sort Numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o T.o "..\\T.cpp" 
+g++ -o "T. Sort Numbers.exe" T.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file T. Sort Numbers.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+12:41:09 **** Incremental Build of configuration Debug for project T. Sort Numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o T.o "..\\T.cpp" 
+g++ -o "T. Sort Numbers.exe" T.o 
+Info: Nothing to build for T. Sort Numbers
+12:42:30 **** Incremental Build of configuration Debug for project T. Sort Numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o T.o "..\\T.cpp" 
+g++ -o "T. Sort Numbers.exe" T.o 
+12:45:32 **** Incremental Build of configuration Debug for project T. Sort Numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o T.o "..\\T.cpp" 
+g++ -o "T. Sort Numbers.exe" T.o 
+12:48:20 **** Incremental Build of configuration Debug for project T. Sort Numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o T.o "..\\T.cpp" 
+g++ -o "T. Sort Numbers.exe" T.o 
+Info: Nothing to build for T. Sort Numbers
+Info: Nothing to build for T. Sort Numbers
+12:50:15 **** Incremental Build of configuration Debug for project T. Sort Numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o T.o "..\\T.cpp" 
+g++ -o "T. Sort Numbers.exe" T.o 
+13:50:51 **** Rebuild of configuration Debug for project U. Float or int ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o U.o "..\\U.cpp" 
+g++ -o "U. Float or int.exe" U.o 
+Info: Nothing to build for U. Float or int
+Info: Nothing to build for U. Float or int
+13:52:39 **** Incremental Build of configuration Debug for project U. Float or int ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o U.o "..\\U.cpp" 
+g++ -o "U. Float or int.exe" U.o 
+13:54:15 **** Incremental Build of configuration Debug for project U. Float or int ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o U.o "..\\U.cpp" 
+g++ -o "U. Float or int.exe" U.o 
+Info: Nothing to build for U. Float or int
+13:55:05 **** Incremental Build of configuration Debug for project U. Float or int ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o U.o "..\\U.cpp" 
+g++ -o "U. Float or int.exe" U.o 
+13:55:57 **** Incremental Build of configuration Debug for project U. Float or int ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o U.o "..\\U.cpp" 
+g++ -o "U. Float or int.exe" U.o 
+13:56:22 **** Incremental Build of configuration Debug for project U. Float or int ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o U.o "..\\U.cpp" 
+g++ -o "U. Float or int.exe" U.o 
+14:06:06 **** Rebuild of configuration Debug for project V. Comparison ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o V.o "..\\V.cpp" 
+..\V.cpp: In function 'int main()':
+..\V.cpp:29:9: warning: suggest explicit braces to avoid ambiguous 'else' [-Wparentheses]
+  else if(S == '=')
+         ^
+g++ -o "V. Comparison.exe" V.o 
+14:06:34 **** Incremental Build of configuration Debug for project V. Comparison ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o V.o "..\\V.cpp" 
+g++ -o "V. Comparison.exe" V.o 
+14:06:41 **** Incremental Build of configuration Debug for project U. Float or int ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o U.o "..\\U.cpp" 
+g++ -o "U. Float or int.exe" U.o 
+Info: Nothing to build for V. Comparison
+Info: Nothing to build for V. Comparison
+Info: Nothing to build for V. Comparison
+Info: Nothing to build for V. Comparison
+Info: Nothing to build for V. Comparison
+Info: Nothing to build for V. Comparison
+14:17:01 **** Rebuild of configuration Debug for project W. Mathematical Expression ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o W.o "..\\W.cpp" 
+g++ -o "W. Mathematical Expression.exe" W.o 
+Info: Nothing to build for W. Mathematical Expression
+Info: Nothing to build for W. Mathematical Expression
+Info: Nothing to build for W. Mathematical Expression
+Info: Nothing to build for W. Mathematical Expression
+Info: Nothing to build for W. Mathematical Expression
+14:18:26 **** Incremental Build of configuration Debug for project W. Mathematical Expression ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o W.o "..\\W.cpp" 
+g++ -o "W. Mathematical Expression.exe" W.o 
+Info: Nothing to build for W. Mathematical Expression
+14:19:43 **** Incremental Build of configuration Debug for project W. Mathematical Expression ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o W.o "..\\W.cpp" 
+g++ -o "W. Mathematical Expression.exe" W.o 
+14:39:53 **** Rebuild of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+..\X.cpp: In function 'int main()':
+..\X.cpp:18:3: error: 'S' was not declared in this scope
+   S = l1;
+   ^
+..\X.cpp:20:3: error: 'S' was not declared in this scope
+   S = l1;
+   ^
+..\X.cpp:23:3: error: 'M' was not declared in this scope
+   M = l2;
+   ^
+..\X.cpp:25:3: error: 'M' was not declared in this scope
+   M = r2;
+   ^
+..\X.cpp:27:6: error: 'S' was not declared in this scope
+  if( S > M)
+      ^
+..\X.cpp:27:10: error: 'M' was not declared in this scope
+  if( S > M)
+          ^
+14:40:16 **** Incremental Build of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+g++ -o "X. Two intervals.exe" X.o 
+Info: Nothing to build for X. Two intervals
+14:42:34 **** Incremental Build of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+g++ -o "X. Two intervals.exe" X.o 
+Info: Nothing to build for X. Two intervals
+14:43:30 **** Incremental Build of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+g++ -o "X. Two intervals.exe" X.o 
+14:45:30 **** Incremental Build of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+g++ -o "X. Two intervals.exe" X.o 
+Info: Nothing to build for X. Two intervals
+Info: Nothing to build for X. Two intervals
+14:51:29 **** Incremental Build of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+g++ -o "X. Two intervals.exe" X.o 
+14:52:55 **** Incremental Build of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+g++ -o "X. Two intervals.exe" X.o 
+Info: Nothing to build for X. Two intervals
+Info: Nothing to build for X. Two intervals
+14:54:53 **** Incremental Build of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+g++ -o "X. Two intervals.exe" X.o 
+Info: Nothing to build for X. Two intervals
+Info: Nothing to build for X. Two intervals
+Info: Nothing to build for X. Two intervals
+Info: Nothing to build for X. Two intervals
+Info: Nothing to build for X. Two intervals
+14:59:17 **** Incremental Build of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+g++ -o "X. Two intervals.exe" X.o 
+15:02:37 **** Incremental Build of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+g++ -o "X. Two intervals.exe" X.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file X. Two intervals.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:02:48 **** Incremental Build of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+g++ -o "X. Two intervals.exe" X.o 
+Info: Nothing to build for X. Two intervals
+Info: Nothing to build for X. Two intervals
+Info: Nothing to build for X. Two intervals
+Info: Nothing to build for X. Two intervals
+Info: Nothing to build for X. Two intervals
+16:16:15 **** Incremental Build of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+g++ -o "X. Two intervals.exe" X.o 
+Info: Nothing to build for X. Two intervals
+Info: Nothing to build for X. Two intervals
+16:19:17 **** Incremental Build of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+g++ -o "X. Two intervals.exe" X.o 
+16:35:27 **** Incremental Build of configuration Debug for project X. Two intervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o X.o "..\\X.cpp" 
+g++ -o "X. Two intervals.exe" X.o 
+Info: Nothing to build for X. Two intervals
+Info: Nothing to build for X. Two intervals
+16:48:33 **** Rebuild of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+..\Y.cpp: In function 'int main()':
+..\Y.cpp:16:15: warning: 'A' is used uninitialized in this function [-Wuninitialized]
+  int Res1 = (A*B*C*D)/100;
+               ^
+..\Y.cpp:16:15: warning: 'B' is used uninitialized in this function [-Wuninitialized]
+..\Y.cpp:16:17: warning: 'C' is used uninitialized in this function [-Wuninitialized]
+  int Res1 = (A*B*C*D)/100;
+                 ^
+..\Y.cpp:16:19: warning: 'D' is used uninitialized in this function [-Wuninitialized]
+  int Res1 = (A*B*C*D)/100;
+                   ^
+g++ -o "Y. The last 2 digits.exe" Y.o 
+16:49:07 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+Info: Nothing to build for Y. The last 2 digits
+Info: Nothing to build for Y. The last 2 digits
+16:50:28 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+Info: Nothing to build for Y. The last 2 digits
+Info: Nothing to build for Y. The last 2 digits
+Info: Nothing to build for Y. The last 2 digits
+Info: Nothing to build for Y. The last 2 digits
+16:53:11 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+16:53:35 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file Y. The last 2 digits.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:53:50 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+Info: Nothing to build for Y. The last 2 digits
+16:54:29 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+Info: Nothing to build for Y. The last 2 digits
+Info: Nothing to build for Y. The last 2 digits
+16:56:39 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+16:57:14 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+Info: Nothing to build for Y. The last 2 digits
+Info: Nothing to build for Y. The last 2 digits
+16:59:14 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+17:00:16 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+Info: Nothing to build for Y. The last 2 digits
+17:00:57 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+17:01:31 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+17:07:32 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+..\Y.cpp: In function 'int main()':
+..\Y.cpp:14:6: warning: unused variable 'A' [-Wunused-variable]
+  int A , B , C , D;
+      ^
+..\Y.cpp:14:10: warning: unused variable 'B' [-Wunused-variable]
+  int A , B , C , D;
+          ^
+..\Y.cpp:14:14: warning: unused variable 'C' [-Wunused-variable]
+  int A , B , C , D;
+              ^
+..\Y.cpp:14:18: warning: unused variable 'D' [-Wunused-variable]
+  int A , B , C , D;
+                  ^
+g++ -o "Y. The last 2 digits.exe" Y.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file Y. The last 2 digits.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:07:54 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+Info: Nothing to build for Y. The last 2 digits
+17:51:51 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+Info: Nothing to build for Y. The last 2 digits
+17:52:33 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+Info: Nothing to build for Y. The last 2 digits
+Info: Nothing to build for Y. The last 2 digits
+Info: Nothing to build for Y. The last 2 digits
+17:55:19 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file Y. The last 2 digits.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:55:29 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+Info: Nothing to build for Y. The last 2 digits
+17:56:14 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+Info: Nothing to build for Y. The last 2 digits
+Info: Nothing to build for Y. The last 2 digits
+18:07:59 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+Info: Nothing to build for Y. The last 2 digits
+Info: Nothing to build for Y. The last 2 digits
+18:11:15 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+..\Y.cpp: In function 'int main()':
+..\Y.cpp:22:10: error: 'Res1' was not declared in this scope
+  cout << Res1;
+          ^
+..\Y.cpp:20:13: warning: unused variable 'Res' [-Wunused-variable]
+  long long  Res = (Val)%100;
+             ^
+18:11:26 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+F:/OSAMAA/ARM_STM/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/mingw/bin/../lib/gcc/i686-w64-mingw32/5.2.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file Y. The last 2 digits.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:11:38 **** Incremental Build of configuration Debug for project Y. The last 2 digits ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Y.o "..\\Y.cpp" 
+g++ -o "Y. The last 2 digits.exe" Y.o 
+Info: Nothing to build for Y. The last 2 digits
+Info: Nothing to build for Y. The last 2 digits
+18:33:10 **** Rebuild of configuration Debug for project Z. Hard Compare ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Z.o "..\\Z.cpp" 
+g++ -o "Z. Hard Compare.exe" Z.o 
+Info: Nothing to build for Z. Hard Compare
+Info: Nothing to build for Z. Hard Compare
+Info: Nothing to build for Z. Hard Compare
+Info: Nothing to build for Z. Hard Compare
+Info: Nothing to build for Z. Hard Compare

@@ -1,0 +1,7 @@
+11:28:33 **** Incremental Build of configuration Debug for project O.Calculator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o O.o "..\\O.cpp" 
+g++ -o O.Calculator.exe O.o 
+
+11:28:34 Build Finished (took 728ms)
+

@@ -1,0 +1,7 @@
+18:30:20 **** Incremental Build of configuration Debug for project C.simpleCalculator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o C.o "..\\C.cpp" 
+g++ -o C.simpleCalculator.exe C.o 
+
+18:30:21 Build Finished (took 954ms)
+

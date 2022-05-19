@@ -1,0 +1,32 @@
+/*
+ * O.cpp
+ *
+ *  Created on: Jan 27, 2021
+ *      Author: Osama Mahmoud
+ */
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+	unsigned int A , B;
+	char S;
+	cin >> A >> S >> B;
+
+	if(S == '+')
+		cout << A+B;
+	else if(S == '-')
+		cout << A-B;
+	else if(S == '*')
+		cout << A*B;
+	else if(S == '/')
+		cout << A/B;
+
+	return 0;
+}
+
+
+
+

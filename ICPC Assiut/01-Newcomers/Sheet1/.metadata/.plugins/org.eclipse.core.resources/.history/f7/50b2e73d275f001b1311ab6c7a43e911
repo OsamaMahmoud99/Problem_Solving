@@ -1,0 +1,24 @@
+/*
+ * C.cpp
+ *
+ *  Created on: Jan 25, 2021
+ *      Author: Osama Mahmoud
+ */
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+	unsigned int X , Y;
+
+	cin >> X >> Y;
+
+
+	cout <<X + Y = <<X + Y;
+	return 0;
+}
+
+
+

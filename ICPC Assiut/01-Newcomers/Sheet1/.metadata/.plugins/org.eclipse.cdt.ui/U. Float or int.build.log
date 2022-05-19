@@ -1,0 +1,7 @@
+14:06:41 **** Incremental Build of configuration Debug for project U. Float or int ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o U.o "..\\U.cpp" 
+g++ -o "U. Float or int.exe" U.o 
+
+14:06:43 Build Finished (took 1s.628ms)
+
