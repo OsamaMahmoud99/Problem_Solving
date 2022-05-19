@@ -1,0 +1,5 @@
+16:49:57 **** Incremental Build of configuration Debug for project K.Magical Sticks ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o K.o "..\\K.cpp" 
+g++ -o "K.Magical Sticks.exe" K.o 
+Info: Nothing to build for K.Magical Sticks
