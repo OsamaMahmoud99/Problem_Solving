@@ -1,0 +1,14 @@
+12:54:02 **** Incremental Build of configuration Debug for project N.Registration ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o N.o "..\\N.cpp" 
+..\N.cpp: In function 'int main()':
+..\N.cpp:18:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i=0; i<strlen(S)&& i<strlen(T)-1; ++i)
+               ~^~~~~~~~~~
+..\N.cpp:18:30: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i=0; i<strlen(S)&& i<strlen(T)-1; ++i)
+                             ~^~~~~~~~~~~~
+g++ -o N.Registration.exe N.o 
+
+12:54:05 Build Finished. 0 errors, 2 warnings. (took 2s.809ms)
+

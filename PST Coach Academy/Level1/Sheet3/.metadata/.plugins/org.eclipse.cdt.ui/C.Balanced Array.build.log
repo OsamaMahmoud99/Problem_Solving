@@ -1,0 +1,9 @@
+14:06:38 **** Incremental Build of configuration Debug for project C.Balanced Array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o C.o "..\\C.cpp" 
+g++ -o "C.Balanced Array.exe" C.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file C.Balanced Array.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+14:06:39 Build Failed. 1 errors, 0 warnings. (took 1s.455ms)
+

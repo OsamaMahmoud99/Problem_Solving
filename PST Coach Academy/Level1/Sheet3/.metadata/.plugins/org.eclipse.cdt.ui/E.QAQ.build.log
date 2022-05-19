@@ -1,0 +1,7 @@
+13:48:38 **** Rebuild of configuration Debug for project E.QAQ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o E.o "..\\E.cpp" 
+g++ -o E.QAQ.exe E.o 
+
+13:48:39 Build Finished. 0 errors, 0 warnings. (took 1s.444ms)
+

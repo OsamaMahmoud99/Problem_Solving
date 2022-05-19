@@ -1,0 +1,19 @@
+12:01:35 **** Incremental Build of configuration Debug for project B.ArraywithOddSum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o B.o "..\\B.cpp" 
+..\B.cpp: In function 'int main()':
+..\B.cpp:32:17: warning: name lookup of 'i' changed
+     Sum+=arr[j]+i;
+                 ^
+..\B.cpp:17:10: warning:   matches this 'i' under ISO standard rules
+  for(int i=1; i<=t; ++i)
+          ^
+..\B.cpp:21:11: warning:   matches this 'i' under old rules
+   for(int i=0; i<n; ++i)
+           ^
+g++ -o B.ArraywithOddSum.exe B.o 
+C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../mingw32/bin/ld.exe: cannot open output file B.ArraywithOddSum.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+12:01:35 Build Finished (took 722ms)
+

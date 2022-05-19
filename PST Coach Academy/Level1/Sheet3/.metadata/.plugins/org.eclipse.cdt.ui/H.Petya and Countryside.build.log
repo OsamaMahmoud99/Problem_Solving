@@ -1,0 +1,7 @@
+14:37:26 **** Incremental Build of configuration Debug for project H.Petya and Countryside ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o H.o "..\\H.cpp" 
+g++ -o "H.Petya and Countryside.exe" H.o 
+
+14:37:29 Build Finished. 0 errors, 0 warnings. (took 2s.792ms)
+

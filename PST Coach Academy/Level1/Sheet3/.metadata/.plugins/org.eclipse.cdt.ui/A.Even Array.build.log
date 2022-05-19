@@ -1,0 +1,7 @@
+11:17:22 **** Incremental Build of configuration Debug for project A.Even Array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o A.o "..\\A.cpp" 
+g++ -o "A.Even Array.exe" A.o 
+
+11:17:23 Build Finished. 0 errors, 0 warnings. (took 1s.403ms)
+
