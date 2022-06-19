@@ -1,0 +1,9 @@
+20:32:19 **** Incremental Build of configuration Debug for project R.You're Given a String ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o R.o "..\\R.cpp" 
+..\R.cpp: In function 'int main()':
+..\R.cpp:18:9: warning: variable 'str' set but not used [-Wunused-but-set-variable]
+     int str[100];
+         ^~~
+g++ -o "R.You're Given a String.exe" R.o 
+Info: Nothing to build for R.You're Given a String

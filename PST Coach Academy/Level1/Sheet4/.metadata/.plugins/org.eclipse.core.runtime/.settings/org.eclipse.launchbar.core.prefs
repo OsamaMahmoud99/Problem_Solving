@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:A.Theatre Square.exe,org.eclipse.launchbar.core.descriptorType.default\:D.Word Capitalization.exe,org.eclipse.launchbar.core.descriptorType.default\:E.Way Too Long Words.exe,org.eclipse.launchbar.core.descriptorType.default\:F.Petya and Strings.exe,org.eclipse.launchbar.core.descriptorType.default\:G.Helpful Maths.exe,org.eclipse.launchbar.core.descriptorType.default\:H.Word.exe,org.eclipse.launchbar.core.descriptorType.default\:I.Translation.exe,org.eclipse.launchbar.core.descriptorType.default\:L.Anton and Polyhedrons.exe,org.eclipse.launchbar.core.descriptorType.default\:N.abc of ABC.exe,org.eclipse.launchbar.core.descriptorType.default\:O.Eating Symbols Easy.exe,org.eclipse.launchbar.core.descriptorType.default\:B.Night at the Museum.exe,org.eclipse.launchbar.core.descriptorType.default\:C.File Name.exe,org.eclipse.launchbar.core.descriptorType.default\:R.You're Given a String.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:A.Theatre\ Square.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:A.Theatre\ Square.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:N.abc\ of\ ABC.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:N.abc\ of\ ABC.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

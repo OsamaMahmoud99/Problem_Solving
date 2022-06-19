@@ -1,0 +1,7 @@
+20:50:51 **** Incremental Build of configuration Debug for project H.Word ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o H.o "..\\H.cpp" 
+g++ -o H.Word.exe H.o 
+
+20:50:52 Build Finished. 0 errors, 0 warnings. (took 1s.493ms)
+

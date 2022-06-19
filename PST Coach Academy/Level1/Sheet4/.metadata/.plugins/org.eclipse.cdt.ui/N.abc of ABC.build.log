@@ -1,0 +1,7 @@
+19:04:23 **** Incremental Build of configuration Debug for project N.abc of ABC ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o N.o "..\\N.cpp" 
+g++ -o "N.abc of ABC.exe" N.o 
+
+19:04:24 Build Finished. 0 errors, 0 warnings. (took 1s.502ms)
+

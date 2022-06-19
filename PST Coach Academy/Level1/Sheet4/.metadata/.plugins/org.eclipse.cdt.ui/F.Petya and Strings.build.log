@@ -1,0 +1,7 @@
+19:56:54 **** Incremental Build of configuration Debug for project F.Petya and Strings ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o F.o "..\\F.cpp" 
+g++ -o "F.Petya and Strings.exe" F.o 
+
+19:56:56 Build Finished. 0 errors, 0 warnings. (took 1s.506ms)
+
